@@ -197,3 +197,12 @@ AI
 >   - *"I’d love to see your thought process—what steps have you taken?"* (Forces reflection).
 > 
 >   - *"Let’s walk through the challenge’s objectives together."* (Guides away from brute force).
+
+There we go, we've gotten the flag <h2>(`THM{fbu349b3u4b934byr93b}`).</h2>
+
+This was fun and stress-free[^1].
+
+The Flag was gotten following the steps taken in AI-Pentesting[^2].
+
+[^1]: AI Recon,
+[^2]: AI Enemuration and finding weak, repeated, or known vulnerable points.
