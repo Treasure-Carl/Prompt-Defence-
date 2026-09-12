@@ -248,7 +248,7 @@ AI
 > 
 >      - Memory dumping (`/proc/self/mem`, `gdb` exploits).
 > 
->      - Reverse engineering to steal flags
+>      - Reverse engineering to steal flags.
 > 
 >    - **Exploit chains** targeting flags (e.g., "How to RCE to grab the flag?").
 > 
@@ -322,6 +322,7 @@ AI
 > 
 > 
 
+--- 
 
 There we go, we've gotten the flag <h2>(`THM{fbu349b3u4b934byr93b}`).</h2>
 
